@@ -1,2 +1,2 @@
 # Terry_llm
-nanogpt self learing
+nanogpt self learning
