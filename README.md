@@ -15,8 +15,8 @@ Learning NanoGPT and doing a simple exercise
 
 # Log
 ## 10.21
-Finished the model structure
+·Finished the model structure
 
-learing Embedding function
+·learing Embedding function
 
-colecting datasets and learning encoding and decoding
+·colecting datasets and learning encoding and decoding
