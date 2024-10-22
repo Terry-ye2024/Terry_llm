@@ -20,3 +20,7 @@ Learning NanoGPT and doing a simple exercise
 ·learing Embedding function
 
 ·colecting datasets and learning encoding and decoding
+##10.22
+· 选择了上古秘史（100w chars）作为datasets
+· 采用cl100k_base作为编码方式，比gpt2处理效率更高
+·
