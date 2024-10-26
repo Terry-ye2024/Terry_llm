@@ -13,6 +13,11 @@ Learning NanoGPT and doing a simple exercise
 
 3.pytorch>=2.0
 
+# 使用方法
+1.运行data中sherlock的prepare.py,生成训练集和测试集
+2.在终端中运行train.py，训练并存储在checkpoints中
+3.在终端运行sample.py, check 生成的效果
+
 # Log
 ## 10.21
 ·Finished the model structure
