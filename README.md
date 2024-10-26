@@ -31,3 +31,6 @@ Learning NanoGPT and doing a simple exercise
 ·尝试 dill 模块：dill 是一种 pickle 的扩展，可以序列化更多的 Python 对象。安装 dill 后，尝试用它来加载模型：成功
 
 ·尝试引入自注意力机制：失败，由于维度不匹配产生了NAN
+
+##10.27
+· 尝试在GPU上运行代码，成功生成完整的sherlock对话
