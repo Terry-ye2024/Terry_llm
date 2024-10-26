@@ -39,5 +39,5 @@ Learning NanoGPT and doing a simple exercise
 
 ·尝试引入自注意力机制：失败，由于维度不匹配产生了NAN
 
-##10.27
+## 10.27
 · 尝试在GPU上运行代码，成功生成完整的sherlock对话
