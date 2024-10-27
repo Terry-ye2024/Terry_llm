@@ -1,4 +1,5 @@
 # Terry_llm
+![sherlock](https://github.com/user-attachments/assets/cef5675e-d60e-479f-a9be-8e8ca75935d5)
 
 # reference
 NanoGPT
